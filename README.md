@@ -1,2 +1,2 @@
 # Razorpay_Clone
-this is a razorpay payment application clone.
+this is a razorpay payment Gateway application clone.
